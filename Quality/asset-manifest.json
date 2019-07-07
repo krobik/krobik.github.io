@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a49feec5.chunk.css",
-    "main.js": "/static/js/main.b065b3ba.chunk.js",
-    "main.js.map": "/static/js/main.b065b3ba.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.764ccc25.chunk.css": "/static/css/2.764ccc25.chunk.css",
-    "static/js/2.2e23c007.chunk.js": "/static/js/2.2e23c007.chunk.js",
-    "static/js/2.2e23c007.chunk.js.map": "/static/js/2.2e23c007.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.24870096bb7a4907bb5e4de30e6828be.js": "/precache-manifest.24870096bb7a4907bb5e4de30e6828be.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.764ccc25.chunk.css.map": "/static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.a49feec5.chunk.css.map": "/static/css/main.a49feec5.chunk.css.map",
-    "static/media/index.css": "/static/media/Roboto-ThinItalic.0fc25386.ttf"
+    "main.css": "/Quality/static/css/main.7b79b9a3.chunk.css",
+    "main.js": "/Quality/static/js/main.84cb4d52.chunk.js",
+    "main.js.map": "/Quality/static/js/main.84cb4d52.chunk.js.map",
+    "runtime~main.js": "/Quality/static/js/runtime~main.edfd320e.js",
+    "runtime~main.js.map": "/Quality/static/js/runtime~main.edfd320e.js.map",
+    "static/css/2.764ccc25.chunk.css": "/Quality/static/css/2.764ccc25.chunk.css",
+    "static/js/2.2e23c007.chunk.js": "/Quality/static/js/2.2e23c007.chunk.js",
+    "static/js/2.2e23c007.chunk.js.map": "/Quality/static/js/2.2e23c007.chunk.js.map",
+    "index.html": "/Quality/index.html",
+    "precache-manifest.12d98ff5faf1006dcab658f619d29e7e.js": "/Quality/precache-manifest.12d98ff5faf1006dcab658f619d29e7e.js",
+    "service-worker.js": "/Quality/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/Quality/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.7b79b9a3.chunk.css.map": "/Quality/static/css/main.7b79b9a3.chunk.css.map",
+    "static/media/index.css": "/Quality/static/media/Roboto-ThinItalic.0fc25386.ttf"
   }
 }
