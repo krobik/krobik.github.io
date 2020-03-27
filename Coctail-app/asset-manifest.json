@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Coctail-app/static/css/main.8a3a037a.chunk.css",
-    "main.js": "/Coctail-app/static/js/main.170dec2c.chunk.js",
-    "main.js.map": "/Coctail-app/static/js/main.170dec2c.chunk.js.map",
+    "main.js": "/Coctail-app/static/js/main.a91f7228.chunk.js",
+    "main.js.map": "/Coctail-app/static/js/main.a91f7228.chunk.js.map",
     "runtime-main.js": "/Coctail-app/static/js/runtime-main.39bd6091.js",
     "runtime-main.js.map": "/Coctail-app/static/js/runtime-main.39bd6091.js.map",
-    "static/js/2.19f1b416.chunk.js": "/Coctail-app/static/js/2.19f1b416.chunk.js",
-    "static/js/2.19f1b416.chunk.js.map": "/Coctail-app/static/js/2.19f1b416.chunk.js.map",
+    "static/js/2.6755d49e.chunk.js": "/Coctail-app/static/js/2.6755d49e.chunk.js",
+    "static/js/2.6755d49e.chunk.js.map": "/Coctail-app/static/js/2.6755d49e.chunk.js.map",
     "index.html": "/Coctail-app/index.html",
-    "precache-manifest.fa77d5180580ef7109e26fc977dd2e99.js": "/Coctail-app/precache-manifest.fa77d5180580ef7109e26fc977dd2e99.js",
+    "precache-manifest.bb98ceaf7814daf97d4ffa756fd6b10c.js": "/Coctail-app/precache-manifest.bb98ceaf7814daf97d4ffa756fd6b10c.js",
     "service-worker.js": "/Coctail-app/service-worker.js",
     "static/css/main.8a3a037a.chunk.css.map": "/Coctail-app/static/css/main.8a3a037a.chunk.css.map",
-    "static/js/2.19f1b416.chunk.js.LICENSE.txt": "/Coctail-app/static/js/2.19f1b416.chunk.js.LICENSE.txt",
+    "static/js/2.6755d49e.chunk.js.LICENSE.txt": "/Coctail-app/static/js/2.6755d49e.chunk.js.LICENSE.txt",
     "static/media/basket.a94eb3b9.svg": "/Coctail-app/static/media/basket.a94eb3b9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.39bd6091.js",
-    "static/js/2.19f1b416.chunk.js",
+    "static/js/2.6755d49e.chunk.js",
     "static/css/main.8a3a037a.chunk.css",
-    "static/js/main.170dec2c.chunk.js"
+    "static/js/main.a91f7228.chunk.js"
   ]
 }
