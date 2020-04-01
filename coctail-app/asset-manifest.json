@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Coctail-app/static/css/main.1a4cd379.chunk.css",
-    "main.js": "/Coctail-app/static/js/main.eb0a27dd.chunk.js",
-    "main.js.map": "/Coctail-app/static/js/main.eb0a27dd.chunk.js.map",
-    "runtime-main.js": "/Coctail-app/static/js/runtime-main.39bd6091.js",
-    "runtime-main.js.map": "/Coctail-app/static/js/runtime-main.39bd6091.js.map",
-    "static/js/2.97bb6edf.chunk.js": "/Coctail-app/static/js/2.97bb6edf.chunk.js",
-    "static/js/2.97bb6edf.chunk.js.map": "/Coctail-app/static/js/2.97bb6edf.chunk.js.map",
-    "index.html": "/Coctail-app/index.html",
-    "precache-manifest.cbf5d26cd9e9bef48d0a6ba84ba6570c.js": "/Coctail-app/precache-manifest.cbf5d26cd9e9bef48d0a6ba84ba6570c.js",
-    "service-worker.js": "/Coctail-app/service-worker.js",
-    "static/css/main.1a4cd379.chunk.css.map": "/Coctail-app/static/css/main.1a4cd379.chunk.css.map",
-    "static/js/2.97bb6edf.chunk.js.LICENSE.txt": "/Coctail-app/static/js/2.97bb6edf.chunk.js.LICENSE.txt",
-    "static/media/basket.a94eb3b9.svg": "/Coctail-app/static/media/basket.a94eb3b9.svg"
+    "main.css": "/coctail-app/static/css/main.1a4cd379.chunk.css",
+    "main.js": "/coctail-app/static/js/main.eb0a27dd.chunk.js",
+    "main.js.map": "/coctail-app/static/js/main.eb0a27dd.chunk.js.map",
+    "runtime-main.js": "/coctail-app/static/js/runtime-main.db56b622.js",
+    "runtime-main.js.map": "/coctail-app/static/js/runtime-main.db56b622.js.map",
+    "static/js/2.97bb6edf.chunk.js": "/coctail-app/static/js/2.97bb6edf.chunk.js",
+    "static/js/2.97bb6edf.chunk.js.map": "/coctail-app/static/js/2.97bb6edf.chunk.js.map",
+    "index.html": "/coctail-app/index.html",
+    "precache-manifest.d18a1290b9189c0e85ce6db59210bf34.js": "/coctail-app/precache-manifest.d18a1290b9189c0e85ce6db59210bf34.js",
+    "service-worker.js": "/coctail-app/service-worker.js",
+    "static/css/main.1a4cd379.chunk.css.map": "/coctail-app/static/css/main.1a4cd379.chunk.css.map",
+    "static/js/2.97bb6edf.chunk.js.LICENSE.txt": "/coctail-app/static/js/2.97bb6edf.chunk.js.LICENSE.txt",
+    "static/media/basket.a94eb3b9.svg": "/coctail-app/static/media/basket.a94eb3b9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.39bd6091.js",
+    "static/js/runtime-main.db56b622.js",
     "static/js/2.97bb6edf.chunk.js",
     "static/css/main.1a4cd379.chunk.css",
     "static/js/main.eb0a27dd.chunk.js"
